@@ -19,7 +19,7 @@ echo ' test'
 }
 stage('Deploy') {
 steps {
-script {
+script 
 // Your deployment steps go here
 echo 'Deploying...'
 // Add your deployment commands or scripts
