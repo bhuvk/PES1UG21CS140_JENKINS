@@ -5,7 +5,7 @@ stage('Build') {
 steps {
 script {
 // Compile the .cpp file using a shell script
-echo 'Build'
+echo 'Build
 }
 }
 }
